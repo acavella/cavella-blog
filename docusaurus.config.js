@@ -86,7 +86,7 @@ const config = {
         title: 'Tony Cavella',
         logo: {
           alt: 'Tony Cavella Logo',
-          src: 'img/logo-tc4svg',
+          src: 'img/logo-tc4.svg',
         },
         items: [
           {
