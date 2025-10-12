@@ -85,8 +85,8 @@ const config = {
       navbar: {
         title: 'Tony Cavella',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo-tc3.svg',
+          alt: 'Tony Cavella Logo',
+          src: 'img/logo-tc4svg',
         },
         items: [
           {
