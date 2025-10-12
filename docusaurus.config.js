@@ -107,7 +107,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Site',
             items: [
               {
                 label: 'Projects',
@@ -116,19 +116,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Social',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Mastodon',
+                href: 'https://fosstodon.org/@s0lution',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/cavella/',
               },
             ],
           },
@@ -141,7 +137,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/acavella/cavella-blog',
+                href: 'https://github.com/acavella',
               },
             ],
           },
