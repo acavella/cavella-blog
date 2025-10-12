@@ -2,8 +2,6 @@
 ![GoRevoke Logo](img/gorevoke_header.png)
 GoRevoke is a standalone Certificate Revocation List Distrution Point written in Go, designed to be lightweight and fully self-contained. Using a simple configuration, GoRevoke automates downloading and serving of remote CRLs. GoRevoke is based on, revoke, a shell based script providing similar function.
 
-
-
 ## Features
 - Cross-platform compatiblity; tested on Linux and Windows
 - Native and containerized deployment options
