@@ -1,1 +1,2 @@
 # GoSecure
+GoSecure is a simple, command line, multi-platform file based encryption utility. GoSecure encrypts/decrypts your files using a simple password utilizing AES256-GCM algorithm with Argon2id key derivation function.
