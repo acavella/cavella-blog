@@ -22,3 +22,8 @@ site-development:
   label: Site Development
   permalink: /site-development
   description: Site Development tag description
+
+tutorials:
+  label: tutorials
+  permalink: /tutorials
+  description: Tutorials tag description
