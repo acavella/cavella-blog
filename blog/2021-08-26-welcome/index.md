@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, cavella]
+authors: [cavella]
 tags: [facebook, hello, docusaurus]
 ---
 

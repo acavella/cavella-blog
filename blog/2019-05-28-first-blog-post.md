@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [slorber, cavella]
+authors: [cavella]
 tags: [hola, docusaurus]
 ---
 

@@ -1,24 +1,10 @@
 cavella:
   name: Tony Cavella
-  title: Secure Mobility Solutions Archiect at Booz Allen Hamilton
+  title: Secure Mobility Solutions Architect at Booz Allen Hamilton
   url: https://linkedin.com/in/cavella
-  image_url: https://media.licdn.com/dms/image/v2/D4E03AQEt4K5AosrAAw/profile-displayphoto-scale_200_200/B4EZlKkJnxK0AY-/0/1757892615106?e=1762992000&v=beta&t=WD_49mUwFNdV9YyO-azHPdSgK6C_pkzUSjepF8gtScY
+  image_url: /img/authors/tony-cavella.jpg
   page: true
   socials:
     x: cavella
     linkedin: cavella
     github: acavella
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
