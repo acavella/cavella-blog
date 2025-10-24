@@ -2,7 +2,7 @@
 title: A Quick Update!
 slug: a-quick-update
 authors: cavella
-tags: [tutorials]
+tags: [cancer]
 ---
 
 I've been a little delinquent in posting updates lately. Part of the reason is that I really haven't known what to post. However, I know there are folks that are curious for any update with my situation, no matter how brief.

@@ -2,7 +2,7 @@
 title: Surprise, you've got cancer!
 slug: surprise-you-have-cancer
 authors: cavella
-tags: [tutorials] 
+tags: [cancer]
 ---
 
 Finding out you have cancer is pretty shocking news, no matter the scenario. So finding out you have cancer with no prior symptoms or inclination that you are sick can be doubly shocking. 

@@ -2,7 +2,7 @@
 title: Comments and Subscriptions Fixed
 slug: comments-and-subscriptions-fixed
 authors: cavella
-tags: [tutorials] 
+tags: [site-development] 
 ---
 
 If you had previously attempted to signup to either comment or receive newsletter updates, you would have found the system was broken! I have fixed this and now signup and commenting is a breeze.  

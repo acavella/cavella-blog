@@ -2,10 +2,8 @@
 title: It's Time for Tests!
 slug: its-time-for-tests
 authors: cavella
-tags: [tutorials]
+tags: [cancer]
 ---
-
-⚠️
 
 *Before I get much further into this series, I want to make sure it is clear that I am not a medical expert nor am I an expert on the topic of cancer. I am simply documenting my own personal journey and not providing any medical advise or expertise. *
 

@@ -2,12 +2,10 @@
 title: Getting on with Treatment!
 slug: getting-on-with-treatment
 authors: cavella
-tags: [tutorials]
+tags: [cancer]
 ---
 
 After what seems like forever, I have completed all of the required tests and my treatment team has developed their initial treatment plan. I'll be starting with a round of chemotherapy and then this may be followed by a round of radiation therapy.
-
-⚠️
 
 The information and other content provided in this blog, or in any linked materials, are not intended and should not be construed as medical advice, nor is the information a substitute for professional medical expertise or treatment.* I am not a medical expert, I am simply documenting my own personal journey. *
 

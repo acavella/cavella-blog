@@ -2,7 +2,7 @@
 title: Round One Complete! What's Next?
 slug: where-are-we-now
 authors: cavella
-tags: [tutorials]
+tags: [cancer]
 ---
 
 So it has been about 4 months since I received my cancer diagnosis in January. Since then I've completed a round of chemotherapy which lasted about 9 weeks. It has been about 3, maybe 4 weeks since I completed this round of chemo and have since gone in for another PET/CT scan.

@@ -2,7 +2,7 @@
 title: Letting People Know
 slug: letting-people-know
 authors: cavella
-tags: [tutorials]
+tags: [cancer]
 ---
 
 Now you know you've got cancer, so how do you go about telling other people? In certain circumstances this can be as stressful as finding out for yourself. Just like you, everyone that you tell is going to want to know all the details and it is up to you to decide just how much you want to share, when you want to share it, and with whom. 

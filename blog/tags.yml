@@ -27,3 +27,8 @@ tutorials:
   label: tutorials
   permalink: /tutorials
   description: Tutorials tag description
+
+cancer:
+  label: cancer
+  permalink: /cancer
+  description: Cancer tag description
