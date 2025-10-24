@@ -1,6 +1,6 @@
 ---
-slug: custom-github-profile
-title: Custom Github Profile
+slug: ansible-role-wireguard
+title: Ansible Role: Wireguard
 authors: [cavella]
 tags: [tutorials]
 ---
