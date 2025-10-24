@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-In a recent ruling from a German Court in Munich, a website owner was ordered to pay �100 fine for the use of embedded fonts. The court ruled that the use of Google's embedded font service was in violation of the General Data Protection Regulation (GDPR). The court ruled that the plaintiff's IP address was transferred without consent via the Google Fonts library. The ruling read as follows:
+In a recent ruling from a German Court in Munich, a website owner was ordered to pay �100 fine for the use of embedded fonts. The court ruled that the use of Google's embedded font service was in violation of the General Data Protection Regulation (GDPR). <!-- truncate -->The court ruled that the plaintiff's IP address was transferred without consent via the Google Fonts library. The ruling read as follows:
 
 Dynamic IP addresses represent personal data for the operator of a website because, in the abstract, he has the legal means that could reasonably be used to, with the help of third parties, namely the competent authority and the Internet access provider, identify the person concerned based on the stored IP – to have addresses determined
 

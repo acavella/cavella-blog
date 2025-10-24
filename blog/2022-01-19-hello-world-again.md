@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-I'm happy to announce the site has been rebuilt using Simple.css version 2.0, which was just released by Kev Quirk two days ago. If you are looking to create a dead simple website, go check out his work at [Simple.css](https://simplecss.org/).
+I'm happy to announce the site has been rebuilt using Simple.css version 2.0, which was just released by Kev Quirk two days ago. If you are looking to create a dead simple website, go check out his work at [Simple.css](https://simplecss.org/).<!-- truncate -->
 
 ### [What's new?](https://github.com/acavella/cavella.com/blob/main/_posts/2022-01-19-hello-world-v2.md#whats-new)
 

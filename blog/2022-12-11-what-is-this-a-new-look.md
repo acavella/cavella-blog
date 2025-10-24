@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-If you look back through my post history, you'll notice approximately 10 months since my previous post. I don't know about you, but I always have such great intentions for my personal site. In my head I have grand visions of sharing technical insights, how-tos, projects, and sometimes my opinions as these grand long-form posts. However, as reality sets in I found myself with little time left to put together a long form posts.
+If you look back through my post history, you'll notice approximately 10 months since my previous post. I don't know about you, but I always have such great intentions for my personal site. <!-- truncate -->In my head I have grand visions of sharing technical insights, how-tos, projects, and sometimes my opinions as these grand long-form posts. However, as reality sets in I found myself with little time left to put together a long form posts.
 
 ## [Future Posts](https://github.com/acavella/cavella.com/blob/main/_posts/2022-12-11-a-new-look.md#future-posts)
 

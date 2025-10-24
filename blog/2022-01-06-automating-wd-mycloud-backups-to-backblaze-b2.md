@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-Recently I decided I needed to take a more serious approach to data storage and ultimately data backup. In the past I've been, what can I say, careless with my data. Bulk storage has been completed on various USB hard drives and critical files have been backed up directly to the cloud (Google, OneDrive). I will say, this strategy has served me well enough for years, however, in the event of a major situation where I needed to recover everything, I can't imagine it would be an easy task.
+Recently I decided I needed to take a more serious approach to data storage and ultimately data backup. In the past I've been, what can I say, careless with my data. <!-- truncate -->Bulk storage has been completed on various USB hard drives and critical files have been backed up directly to the cloud (Google, OneDrive). I will say, this strategy has served me well enough for years, however, in the event of a major situation where I needed to recover everything, I can't imagine it would be an easy task.
 
 ### The NAS
 
