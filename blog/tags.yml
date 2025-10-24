@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+site-development:
+  label: Site Development
+  permalink: /site-development
+  description: Site Development tag description
