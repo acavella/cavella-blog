@@ -2,7 +2,7 @@
 slug: custom-github-profile
 title: Custom Github Profile
 authors: [cavella]
-tags: [site-development]
+tags: [tutorials]
 ---
 So, it seems I am a bit late to the party, but here nonetheless. A little over a year ago Github introduced profile customization through a custome README. <!-- truncate -->To create your own, all you need to do is create a repo named after your username and then modify the README.md. Anything you place in this special repo will be displayed as your custom profile, you can see mine below. Trust me, it isn't hard to cobble together a pretty slick profile.
 
