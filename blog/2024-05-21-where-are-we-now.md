@@ -5,7 +5,7 @@ authors: cavella
 tags: [cancer]
 ---
 
-So it has been about 4 months since I received my cancer diagnosis in January. Since then I've completed a round of chemotherapy which lasted about 9 weeks. It has been about 3, maybe 4 weeks since I completed this round of chemo and have since gone in for another PET/CT scan.
+So it has been about 4 months since I received my cancer diagnosis in January. Since then I've completed a round of chemotherapy which lasted about 9 weeks. It has been about 3, maybe 4 weeks since I completed this round of chemo and have since gone in for another PET/CT scan.<!-- truncate -->
 
 After speaking with my oncologists, the results of my PET scan look good. All of my tumors have been reduced in size. This wasn't much of a surprise, because the tumors in my neck I can feel are drastically smaller. Additionally, nothing new was noted on the scan.
 

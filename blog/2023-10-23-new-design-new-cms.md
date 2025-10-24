@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-This blog has been a constant evolution changes and improvements. It started as a very simple Jekyll based blog utilizing the Simple.css framework. Seeking further customization and a more of a modern design I set out to build my own theme based on Bootstrap. While both of these iterations were great, I kept coming back to what I felt are short comings of Jekyll itself as a CMS.
+This blog has been a constant evolution changes and improvements. It started as a very simple Jekyll based blog utilizing the Simple.css framework. Seeking further customization and a more of a modern design I set out to build my own theme based on Bootstrap. <!-- truncate -->While both of these iterations were great, I kept coming back to what I felt are short comings of Jekyll itself as a CMS.
 
 ## Advantages
 

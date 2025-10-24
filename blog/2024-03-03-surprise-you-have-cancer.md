@@ -5,7 +5,7 @@ authors: cavella
 tags: [cancer]
 ---
 
-Finding out you have cancer is pretty shocking news, no matter the scenario. So finding out you have cancer with no prior symptoms or inclination that you are sick can be doubly shocking. 
+Finding out you have cancer is pretty shocking news, no matter the scenario. So finding out you have cancer with no prior symptoms or inclination that you are sick can be doubly shocking. <!-- truncate -->
 
 I have been diagnosed with Head and Neck Cancer, specifically nasopharyngeal cancer. I've decided to document the experience on my blog, maybe it will serve as some reference for myself in the future. 
 

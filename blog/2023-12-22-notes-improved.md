@@ -5,7 +5,7 @@ authors: cavella
 tags: [tutorials]
 ---
 
-As an avid notetaker I'm always on the lookout for a better way to take notes. I've often tried using various digital tools to take typed notes. I've gone between Evernote, Onenote, among others, to my current digital notebook, Obsidian.  And while Obsidian does fine for me, I prefer to use it to organize and catalog finished notes and collections.  I have never found a more natural way of taking on the fly notes than plane old pen and paper. 
+As an avid notetaker I'm always on the lookout for a better way to take notes. I've often tried using various digital tools to take typed notes. I've gone between Evernote, Onenote, among others, to my current digital notebook, Obsidian.  <!-- truncate -->And while Obsidian does fine for me, I prefer to use it to organize and catalog finished notes and collections.  I have never found a more natural way of taking on the fly notes than plane old pen and paper. 
 
 The drawback with pen and paper is simple, organization. I find myself with notebooks full of unorganized notes and no great way to index them. As I'm sure many others do, I often find myself searching through page after page looking to refer back to a note I wrote previously on a topic.
 

@@ -7,11 +7,11 @@ tags: [tutorials]
 
 If you look back through my post history, you'll notice approximately 10 months since my previous post. I don't know about you, but I always have such great intentions for my personal site. <!-- truncate -->In my head I have grand visions of sharing technical insights, how-tos, projects, and sometimes my opinions as these grand long-form posts. However, as reality sets in I found myself with little time left to put together a long form posts.
 
-## [Future Posts](https://github.com/acavella/cavella.com/blob/main/_posts/2022-12-11-a-new-look.md#future-posts)
+## Future Posts
 
 In an effort to make more regular posts, I am reducing the pressure on myself. Not everything needs to be a traditional long-form post. I'm going to make an attempt to post at least once per week and most of these "regular" posts will simply be short brain dumps, recapping some of the topics of my week (generally technology centric). I still want to complete the occasional long-form post and am going to set an initial goal of four throughout the year. These long-form posts will most likely be documenting some of my homelab projects in detail.
 
-## [The Look](https://github.com/acavella/cavella.com/blob/main/_posts/2022-12-11-a-new-look.md#the-look)
+## The Look
 
 This website is powered by [Jekyll](https://jekyllrb.com/) and hosted by [Netlify](https://www.netlify.com/). Previous versions of the website relied on themes I found on the web and then later a semi-custom theme based on [Simple CSS](https://simplecss.org/) by Kev Quirk. This provided me with a fairly customized theme, but I never felt like it was the right fit for me.
 

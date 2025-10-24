@@ -5,7 +5,7 @@ authors: cavella
 tags: [cancer]
 ---
 
-Now you know you've got cancer, so how do you go about telling other people? In certain circumstances this can be as stressful as finding out for yourself. Just like you, everyone that you tell is going to want to know all the details and it is up to you to decide just how much you want to share, when you want to share it, and with whom. 
+Now you know you've got cancer, so how do you go about telling other people? In certain circumstances this can be as stressful as finding out for yourself. Just like you, everyone that you tell is going to want to know all the details and it is up to you to decide just how much you want to share, when you want to share it, and with whom. <!-- truncate -->
 
 My wife was obviously the first person I had to break the news to. It just so happened she was in the room when I got the initial call from my primary care informing me the biopsy had discovered cancer cells. She could read the signs on my face that the news I was receiving was pretty serious.  There was zero time to prepare for this conversation and honestly maybe it was for the best. After getting off the phone with my doctor I then had to tell my wife the news, the worst part is we had no other details apart from knowing that I have cancer. As I mentioned in my summary of testing, the unknown is the worst part. After getting the initial news out of the way and allowing the initial shock to subside, we quickly resolved to take this one day at a time and not get ahead of ourselves with assuming things we don't know.
 

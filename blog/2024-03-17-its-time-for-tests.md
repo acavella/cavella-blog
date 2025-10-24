@@ -5,7 +5,7 @@ authors: cavella
 tags: [cancer]
 ---
 
-*Before I get much further into this series, I want to make sure it is clear that I am not a medical expert nor am I an expert on the topic of cancer. I am simply documenting my own personal journey and not providing any medical advise or expertise. *
+Before I get much further into this series, I want to make sure it is clear that I am not a medical expert nor am I an expert on the topic of cancer. I am simply documenting my own personal journey and not providing any medical advise or expertise.<!-- truncate -->
 
 So, now that I've been told told I have cancer, what is next? Well it is pretty simple, tests, tests, and more tests! The doctors need to figure out what is the source of these cancer cells, what type and the stage or progression. Honestly, this might be the most stressful part of the process. 
 
