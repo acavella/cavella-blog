@@ -1,14 +1,13 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+cavella:
+  name: Tony Cavella
+  title: Secure Mobility Solutions Archiect at Booz Allen Hamilton
+  url: https://linkedin.com/in/cavella
+  image_url: /img/authors/tony-cavella.jpg
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    x: cavella
+    linkedin: cavella
+    github: acavella
 
 slorber:
   name: Sébastien Lorber
